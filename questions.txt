@@ -1,5 +1,70 @@
-Turgut özel kimdir?::Halil Turgut Özal (13 Ekim 1927, Malatya - 17 Nisan 1993, Ankara), Türk mühendis, bürokrat, siyasetçi, devlet adamı ve Türkiye Cumhuriyeti'nin 8. cumhurbaşkanı. Anavatan Partisi genel başkanı olarak 1983-1989 yılları arasında başbakanlık görevinde de bulunan Özal, 1989 seçimini kazanarak cumhuriyet döneminde doğan ilk cumhurbaşkanı olmuştur. Ayrıca Mustafa Kemal Atatürk'ün ardından, görevi başında vefat eden ikinci cumhurbaşkanıdır.
-Ahmet hakan kimdir?::Ahmet Hakan Coşkun (d. 11 Ağustos 1967, Sorgun), Türk gazeteci ve televizyoncudur. Hürriyet gazetesinde köşe yazısı yazmakta, CNN Türk kanalında ise Tarafsız Bölge adlı programı sunmaktadır. 6 Kasım 2019 tarihi itibaren Hürriyet genel yayın yönetmenliğini de yapmaktadır.
-Naim Süleymanoğlu hakkında bilgi verir misin?::Naim Süleymanoğlu (Bulgaristan'da doğum adı: Naum Shalamanov; 23 Ocak 1967, Kırcaali - 18 Kasım 2017, İstanbul), Türk haltercidir. Birçok otoriteye göre tüm zamanların en iyi haltercisi olarak kabul edilir. Yapıca ufak tefek ancak çok güçlü olması nedeniyle Cep Herkül'ü olarak anılan Naim Süleymanoğlu, Türk Süpermen adıyla da anılır.
-Neşet ertaş kimdir?::Neşet Ertaş (1938; Çiçekdağı, Kırşehir - 25 Eylül 2012; İzmir), Türk halk ozanı, Türkmen/Abdallık kültürünün ve müzik geleneğinin son büyük temsilcisidir. "Bozkırın Tezenesi" olarak da tanınır.
-
+Malatya'nın plakası kaçtır::plaka
+Antalya'nın plaka kodu nedir::plaka
+İzmir'in plakası 35 midir::plaka
+16 Bursa'nın plakası mıdır::plaka
+51 Zonguldak'ın plakası değil mi?::plaka
+bir sonraki Bostancı motoru ne zaman::ferry
+büyükadadan bostancıya ilk motor::ferry
+Bostancıya ilk motor ne zaman::ferry
+Büyükada'ya son motor saat kaçta::ferry
+bostancıdan büyükadaya sonraki 3 motor nedir?::ferry 
+büyükadadan bostancıya motor saatleri nelerdir::ferry
+Bostancı'ya giden son vapur saat kaçta::ferry
+365-32?::math
+463+324 işleminin sonucu nedir::math
+478*234=::math
+555/3::math
+898735.2*55=::math
+556+87 kaç eder::math
+56/2 işleminin sonucu::math
+899*365 kaç yapar::math
+Ahmet Hakan kimdir?::who
+Elon musk kimdir::who
+#746478 renk kodunun rgb ve cmyk değerlerini verir misin::color
+#382922 renginin RGB karşılığı nedir::color
+#230972 cmyk olarak verir misin::color
+#364876 rgb ve cmyk::color
+elmasın ior numarası nedir?::ior
+suyun ior numarası nedir?::ior
+cam ior::ior
+su ior?::ior
+balın ior numarası nedir::ior
+Almanya'nın başkenti neresidir?::capital
+Germany başkenti nedir?::capital
+Kuala lumpur'un başkenti neresidir?::capital
+Fransanın başkenti neresidir?::capital
+anlık hava durumu nedir?::weather
+şu an acıbadem'de hava durumu ne?::weather
+yarın hava nasıl olacak?::weather
+yarın hava yağmurlu mu?::weather
+bugün yağmur yağacak mı?::weather
+yarın kar yağar mı?::weather
+yarın hava bulutlu mu olacak?::weather
+bugünün haberleri nelerdir?::news
+günlük haberleri alabilir miyim?::news
+bugünün önemli başlıkları nelerdir?::news
+günün önemli başlıkları::news
+büyükada ile ilgili bir haber var mı?::news
+büyükada ile ilgili son haberler::news
+malatya ile ilgili haberler nelerdir?::news
+filtre kahve hakkındaki son haberler::news
+sokak köpekleri hakkındaki haberler::news
+zam haberleri::news
+pirinç pilavı nasıl pişirilir?::cook
+pastacı kreması nasıl yapılır?::cook
+kek hamuru nasıl pişirilir?::cook
+ıspanak yemeği nasıl yapılır?::cook
+helva nasıl yapılır?::cook
+izmir köfte nasıl pişirilir::cook
+patates kızartması tarifi verir misin?::cook
+pirinç pilavı tarifine ihtiyacım var::cook
+lahana dolması tarifi::cook
+ahmet kişisinin doğum günü ne zaman?::birthday
+ahmet hamdi tampınar ne zaman doğmuştur?::birthday
+ali veli kaç yaşındadır?::birthday
+angelina julie'nin yaşı kaçtır?::birthday
+mustafa kişisini kaç yaşında?::birthday
+insan ismi kaç yaşındadır?::birthday
+insan isminin yaşı kaç?::birthday
+ender kutuoğlu kaç yaşındadır?::birthday
+ismail bey şu an kaç yaşında?::birthday
