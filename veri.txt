@@ -1,3 +1,8 @@
-Ankara, Türkiye'nin başkentidir. Nüfusu yaklaşık 5,1 milyondur. Plakası 01'dir.
-İstanbul, Türkiye'nin en büyük şehridir. Nüfusu yaklaşık 15,5 milyondur. Plaka numarası 34'dür.
-İzmir, Türkiye'nin üçüncü büyük şehridir. Nüfusu yaklaşık 4,4 milyondur. İzmir'in plaka numarası 35'dir.
+Ankara, Türkiye'nin başkentidir ve nüfusu yaklaşık 5,1 milyondur. 
+Ankara'nın Plakası 01'dir.
+İstanbul, Türkiye'nin en büyük şehridir. 
+İstanbul'un Nüfusu yaklaşık 15,5 milyondur. 
+İstanbul'un plakası 34'dür.
+İzmir, Türkiye'nin üçüncü büyük şehridir.
+İzmir'in nüfusu yaklaşık 4,4 milyondur. 
+İzmir'in plaka numarası 35'dir.
