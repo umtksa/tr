@@ -142,10 +142,11 @@ kestane nasıl pişirilir?::cook
 mersinin plakası kaçtır::plaka
 mersin ilinin plakası kaç::istanbulun plakası kaç
 fırında tavuk nasıl yapılır?::cook
-tavuk çorbası nasıl pişirilir?::tim cook kimdir?
+tavuk çorbası nasıl pişirilir?::cook
 tim cook kimdir?::who
 gaziantepin plakası ne::plaka
-afyonun plakası kaç::farah köftesi nasıl yapılır?
+afyonun plakası kaç::plaka
+farah köftesi nasıl pişer::cook
 farah köftesi nasıl yapılır?::cook
 deniz tarağı pişirme yöntemi::cook
 hava bulutlu görünüyor yarın yağmur var mı::weather
