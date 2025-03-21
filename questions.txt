@@ -136,6 +136,21 @@ jameika'nın başkenti neresidir?::capital
 hollanda'nın başkenti neydi?::capital
 helin ince kimdir::who
 büyükadaya ilk motor ne zaman::ferry
-bostancıya son sfer nedir::ferry
+bostancıya son sefer nedir::ferry
 kapadokyanın plakası kaçtır?::plaka
 kestane nasıl pişirilir?::cook
+mersinin plakası kaçtır::plaka
+mersin ilinin plakası kaç::istanbulun plakası kaç
+fırında tavuk nasıl yapılır?::cook
+tavuk çorbası nasıl pişirilir?::tim cook kimdir?
+tim cook kimdir?::who
+gaziantepin plakası ne::plaka
+afyonun plakası kaç::farah köftesi nasıl yapılır?
+farah köftesi nasıl yapılır?::cook
+deniz tarağı pişirme yöntemi::cook
+hava bulutlu görünüyor yarın yağmur var mı::weather
+yağmur yağacak mı::weather
+kar yağar mı sence::weather
+yağmur ne kadar sürer::weather
+yağmur var mı bugün::weather
+hava nasıl olacak::weather
