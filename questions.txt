@@ -131,3 +131,11 @@ bostancı motorunun kalkmasına ne kadar var::ferry
 büyükada motoru ne zaman kalkıyor::ferry
 bostancı motoru ne zaman kalkıyor::ferry
 banu alkan kimdir::who
+süleyman demirel kimdir?::who
+jameika'nın başkenti neresidir?::capital
+hollanda'nın başkenti neydi?::capital
+helin ince kimdir::who
+büyükadaya ilk motor ne zaman::ferry
+bostancıya son sfer nedir::ferry
+kapadokyanın plakası kaçtır?::plaka
+kestane nasıl pişirilir?::cook
