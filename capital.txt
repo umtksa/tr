@@ -1,0 +1,190 @@
+Afganistan'ın başkenti Kabil'dir.
+Almanya'nın başkenti Berlin'dir.
+ABD'nin başkenti Washington, D.C.'dir.
+Amerika Birleşik Devletleri'nin başkenti Washington, D.C.'dir.
+Arjantin'in başkenti Buenos Aires'tir.
+Arnavutluk'un başkenti Tiran'dır.
+Avustralya'nın başkenti Canberra'dır.
+Avusturya'nın başkenti Viyana'dır.
+Azerbaycan'ın başkenti Bakü'dür.
+Bahamalar'ın başkenti Nassau'dur.
+Bahreyn'in başkenti Manama'dır.
+Bangladeş'in başkenti Dakka'dır.
+Barbados'un başkenti Bridgetown'dır.
+Belarus'un başkenti Minsk'tir.
+Belçika'nın başkenti Brüksel'dir.
+Belize'in başkenti Belmopan'dır.
+Benin'in başkenti Porto-Novo'dur.
+Bhutan'ın başkenti Thimphu'dur.
+Birleşik Arap Emirlikleri'nin başkenti Abu Dabi'dir.
+Bolivya'nın başkenti La Paz ve Sucre'dir.
+Bosna Hersek'in başkenti Saraybosna'dır.
+Botsvana'nın başkenti Gaboron'dır.
+Brezilya'nın başkenti Brasilia'dır.
+Brunei'nin başkenti Bandar Seri Begavan'dır.
+Bulgaristan'ın başkenti Sofya'dır.
+Burkina Faso'nun başkenti Ouagadougou'dur.
+Burundi'nin başkenti Gitega'dır.
+Cezayir'in başkenti Cezayir'dir.
+Cibuti'nin başkenti Cibuti'dir.
+Çad'ın başkenti N'Djamena'dır.
+Çekya'nın başkenti Prag'dır.
+Çin'in başkenti Pekin'dir.
+Danimarka'nın başkenti Kopenhag'dır.
+Dominik Cumhuriyeti'nin başkenti Santo Domingo'dur.
+Doğu Timor'un başkenti Dili'dir.
+Ekvador'un başkenti Quito'dur.
+El Salvador'un başkenti San Salvador'dur.
+Endonezya'nın başkenti Cakarta'dır.
+Eritre'nin başkenti Asmara'dır.
+Ermenistan'ın başkenti Erivan'dır.
+Estonya'nın başkenti Tallinn'dir.
+Esvatini'nin başkenti Mbabane ve Lobamba'dır.
+Etiyopya'nın başkenti Addis Ababa'dır.
+Fas'ın başkenti Rabat'tır.
+Fiji'nin başkenti Suva'dır.
+Fildişi Sahili'nin başkenti Yamoussoukro'dur.
+Filipinler'in başkenti Manila'dır.
+Finlandiya'nın başkenti Helsinki'dir.
+Fransa'nın başkenti Paris'tir.
+Gabon'un başkenti Libreville'dir.
+Gambiya'nın başkenti Banjul'dur.
+Gana'nın başkenti Akra'dır.
+Gine'nin başkenti Konakri'dir.
+Gine-Bissau'nun başkenti Bissau'dur.
+Grenada'nın başkenti St. George's'dir.
+Guatemala'nın başkenti Guatemala'dır.
+Guyana'nın başkenti Georgetown'dur.
+Güney Afrika Cumhuriyeti'nin başkentleri Pretoria, Cape Town ve Bloemfontein'dir.
+Güney Kore'nin başkenti Seul'dur.
+Güney Sudan'ın başkenti Juba'dır.
+Gürcistan'ın başkenti Tiflis'tir.
+Haiti'nin başkenti Port-au-Prince'tir.
+Hırvatistan'ın başkenti Zagreb'dir.
+Hindistan'ın başkenti Yeni Delhi'dir.
+Hollanda'nın başkenti Amsterdam'dır.
+Honduras'ın başkenti Tegucigalpa'dır.
+Irak'ın başkenti Bağdat'tır.
+İngiltere'nin başkenti Londra'dır.
+İran'ın başkenti Tahran'dır.
+İrlanda'nın başkenti Dublin'dir.
+İspanya'nın başkenti Madrid'dir.
+İsrail'in başkenti Kudüs'tür.
+İsveç'in başkenti Stockholm'dür.
+İsviçre'nin başkenti Bern'dir.
+İtalya'nın başkenti Roma'dır.
+İzlanda'nın başkenti Reykjavik'tir.
+Jamaika'nın başkenti Kingston'dur.
+Japonya'nın başkenti Tokyo'dur.
+Kamboçya'nın başkenti Phnom Penh'dir.
+Kamerun'un başkenti Yaoundé'dir.
+Kanada'nın başkenti Ottawa'dır.
+Karadağ'ın başkenti Podgorica'dır.
+Katar'ın başkenti Doha'dır.
+Kazakistan'ın başkenti Astana'dır.
+Kenya'nın başkenti Nairobi'dir.
+Kırgızistan'ın başkenti Bişkek'tir.
+Kiribati'nin başkenti Güney Tarawa'dır.
+Kolombiya'nın başkenti Bogota'dır.
+Komorlar'ın başkenti Moroni'dir.
+Kongo Demokratik Cumhuriyeti'nin başkenti Kinşasa'dır.
+Kongo Cumhuriyeti'nin başkenti Brazavil'dir.
+Kosova'nın başkenti Priştine'dir.
+Kosta Rika'nın başkenti San Jose'dir.
+Kuveyt'in başkenti Kuveyt'tir.
+Kuzey Kore'nin başkenti Pyongyang'dır.
+Kuzey Makedonya'nın başkenti Üsküp'tür.
+Küba'nın başkenti Havana'dır.
+Laos'un başkenti Vientiane'dir.
+Lesotho'nun başkenti Maseru'dur.
+Letonya'nın başkenti Riga'dır.
+Lübnan'ın başkenti Beyrut'tur.
+Liberya'nın başkenti Monrovia'dır.
+Libya'nın başkenti Trablus'tur.
+Lihtenştayn'ın başkenti Vaduz'dur.
+Litvanya'nın başkenti Vilnius'tur.
+Lüksemburg'un başkenti Lüksemburg'dur.
+Macaristan'ın başkenti Budapeşte'dir.
+Madagaskar'ın başkenti Antananarivo'dur.
+Malavi'nin başkenti Lilongwe'dur.
+Maldivler'in başkenti Male'dir.
+Malezya'nın başkenti Kuala Lumpur'dur.
+Mali'nin başkenti Bamako'dur.
+Malta'nın başkenti Valletta'dır.
+Marshall Adaları'nın başkenti Majuro'dur.
+Mauritius'un başkenti Port Louis'dir.
+Meksika'nın başkenti Meksiko'dur.
+Mısır'ın başkenti Kahire'dir.
+Mikronezya Federal Devletleri'nin başkenti Palikir'dir.
+Moğolistan'ın başkenti Ulan Batur'dur.
+Moldova'nın başkenti Kişinev'dir.
+Monako'nun başkenti Monako'dur.
+Moritanya'nın başkenti Nuakşot'tur.
+Mozambik'in başkenti Maputo'dur.
+Myanmar'ın başkenti Napido'dur.
+Namibya'nın başkenti Windhoek'tur.
+Nauru'nun başkenti Yaren'dir.
+Nepal'in başkenti Katmandu'dur.
+Nikaragua'nın başkenti Managua'dır.
+Nijer'in başkenti Niamey'dir.
+Nijerya'nın başkenti Abuja'dır.
+Norveç'in başkenti Oslo'dur.
+Orta Afrika Cumhuriyeti'nin başkenti Bangui'dir.
+Özbekistan'ın başkenti Taşkent'tir.
+Pakistan'ın başkenti İslamabad'dır.
+Palau'nun başkenti Melekeok'tur.
+Panama'nın başkenti Panama'dır.
+Papua Yeni Gine'nin başkenti Port Moresby'dir.
+Paraguay'ın başkenti Asuncion'dur.
+Peru'nun başkenti Lima'dır.
+Polonya'nın başkenti Varşova'dır.
+Portekiz'in başkenti Lizbon'dur.
+Romanya'nın başkenti Bükreş'tir.
+Ruanda'nın başkenti Kigali'dir.
+Rusya'nın başkenti Moskova'dır.
+Saint Kitts ve Nevis'in başkenti Basseterre'dir.
+Saint Lucia'nın başkenti Castries'dir.
+Saint Vincent ve Grenadinler'in başkenti Kingstown'dır.
+Samoa'nın başkenti Apia'dır.
+San Marino'nun başkenti San Marino'dur.
+Sao Tome ve Principe'nin başkenti Sao Tome'dur.
+Suudi Arabistan'ın başkenti Riyad'dır.
+Senegal'in başkenti Dakar'dır.
+Seyşeller'in başkenti Victoria'dır.
+Sırbistan'ın başkenti Belgrad'tır.
+Sierra Leone'nin başkenti Freetown'dur.
+Singapur'un başkenti Singapur'dur.
+Slovakya'nın başkenti Bratislava'dır.
+Slovenya'nın başkenti Ljubljana'dır.
+Solomon Adaları'nın başkenti Honiara'dır
+Somali'nin başkenti Mogadişu'dur
+Sri Lanka'nın başkenti Kolombo ve Sri Jayawardenepura Kotte'dir
+Sudan'ın başkenti Hartum'dur
+Surinam'ın başkenti Paramaribo'dur
+Suriye'nin başkenti Şam'dır
+Şili'nin başkenti Santiago'dur
+Tacikistan'ın başkenti Duşanbe'dir
+Tanzanya'nın başkenti Dodoma'dır
+Tayland'ın başkenti Bangkok'tur
+Tayvan'ın başkenti Taipei'dir
+Togo'nun başkenti Lome'dur
+Tonga'nın başkenti Nuku'alofa'dır
+Trinidad ve Tobago'nun başkenti Port of Spain'dir
+Tunus'un başkenti Tunus'tur
+Tuvalu'nun başkenti Funafuti'dir
+Türkiye'nin başkenti Ankara'dır
+Türkmenistan'ın başkenti Aşkabat'tır
+Uganda'nın başkenti Kampala'dır
+Ukrayna'nın başkenti Kiev'dir
+Umman'ın başkenti Maskat'tır
+Ürdün'ün başkenti Amman'dır
+Uruguay'ın başkenti Montevideo'dur
+Vanuatu'nun başkenti Port Vila'dır
+Vatikan'ın başkenti Vatikan'dır
+Venezuela'nın başkenti Karakas'tır
+Vietnam'ın başkenti Hanoi'dir
+Yemen'in başkenti Sana'dır
+Yeni Zelanda'nın başkenti Wellington'dur
+Yeşil Burun Adaları'nın başkenti Praia'dır
+Zambiya'nın başkenti Lusaka'dır
+Zimbabve'nin başkenti Harare'dir
