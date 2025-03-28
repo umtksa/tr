@@ -1,4 +1,0 @@
-plaka.txt
-capital.txt
-currency.txt
-nufus.txt
