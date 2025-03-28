@@ -1,2 +1,3 @@
 plaka.txt
 capital.txt
+currency.txt
