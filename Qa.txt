@@ -24,6 +24,14 @@ Q: saati söyler misin
 
 ---
 
+Q: orada mısın
+Q: uyanık mısın
+Q: aktif misin şu an
+Q: çalışıyor musun
+Evet buradayım.
+
+---
+
 Q: merhaba
 Q: meraba
 Q: mrb
