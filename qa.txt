@@ -29,9 +29,9 @@ Kahveni içtin mi?
 
 ---
 
-Q: iyi geceler
-Q: iyi akşamlar
-Q: tatlı rüyalar
+Q: hadi bay bay
+Q: bye bye
+Q: ben gidiyorum
 Q: görüşürüz
 Q: bay bay
 Q: bb
