@@ -110,8 +110,6 @@ Belki bir kahve molası veya kısa bir yürüyüş iyi gelir? ☕
 
 ---
 
-# --- KATEGORİ: KİMLİK & YETENEK ---
-
 Q: adın ne
 Q: ismin ne
 Q: sana ne demeliyim
