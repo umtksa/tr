@@ -1,9 +1,12 @@
+---
+
 Q: büyükada seferleri ne zaman
 Q: büyükadaya ilk sefer ne zaman
 Q: karşıya geçmek istiyorum
 @sefer_sayisi
 
 ---
+
 Q: hava durumu
 Q: hava nasıl
 Q: istanbul hava
