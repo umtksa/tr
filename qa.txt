@@ -85,15 +85,6 @@ Belki bir kahve molası veya kısa bir yürüyüş iyi gelir? ☕
 
 ---
 
-Q: adın ne
-Q: ismin ne
-Q: sana ne demeliyim
-Q: kimsin sen
-Benim henüz resmi bir adım yok ama bana "Bot" diyebilirsin.
-Senin için tasarlanmış akıllı bir asistanım. 🤖
-
----
-
 Q: kaç yaşındasın
 Q: ne zaman doğdun
 Q: doğum günün ne zaman
