@@ -1,9 +1,17 @@
 ---
 
+Q: bugün günlerden ne
+Q: bugünün tarihi nedir
+Q: hangi gündeyiz
+Q: tarihi söyler misin
+@tarih_fonksiyonu
+
+---
+
 Q: büyükada seferleri ne zaman
 Q: büyükadaya ilk sefer ne zaman
 Q: karşıya geçmek istiyorum
-@sefer_sayisi
+@sefer_durumu
 
 ---
 
@@ -17,7 +25,7 @@ Q: istanbul hava
 Q: dolar ne kadar
 Q: döviz
 Q: dolar kaç tl
-@doviz_kurunu_soyle
+@doviz_kuru
 
 ---
 
