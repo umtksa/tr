@@ -1,3 +1,8 @@
+Q: ping
+pong
+
+---
+
 Q: orada mısın
 Q: uyanık mısın
 Q: aktif misin şu an
