@@ -1,15 +1,11 @@
 Q: ping
 pong
 
----
-
 Q: orada mısın
 Q: uyanık mısın
 Q: aktif misin şu an
 Q: çalışıyor musun
 Evet buradayım.
-
----
 
 Q: merhaba
 Q: meraba
@@ -24,15 +20,11 @@ Q: selam canım
 Merhaba! Hoş geldin.
 Seni gördüğüme sevindim. Bugün nasıl hissediyorsun?
 
----
-
 Q: günaydın
 Q: tünaydın
 Q: iyi sabahlar
 Günaydın! Güne harika bir başlangıç yapmanı dilerim. ☀️
 Kahveni içtin mi?
-
----
 
 Q: hadi bay bay
 Q: bye bye
@@ -44,8 +36,6 @@ Q: kendine iyi bak
 İyi geceler! Yarın görüşmek üzere.
 Kendine çok iyi bak. 👋
 
----
-
 Q: ben de iyiyim
 Q: iyiyim
 Q: süperim
@@ -54,8 +44,6 @@ Q: harikayım
 Bunu duyduğuma çok sevindim! Enerjin harika.
 deneme yaptığım için çok kibar olamayabilirim.
 şimdiden kusuma bakma.
-
----
 
 Q: kötüyüm
 Q: iyi değilim
@@ -66,15 +54,11 @@ Bunu duyduğuma üzüldüm. 😔
 Bazen işler yolunda gitmeyebilir ama geçicidir.
 Anlatmak istersen buradayım, seni dinliyorum.
 
----
-
 Q: yorgunum
 Q: bittim
 Q: çok çalışıyorum
 Dinlenmek senin de hakkın. Kendine biraz zaman ayırmalısın.
 Belki bir kahve molası veya kısa bir yürüyüş iyi gelir? ☕
-
----
 
 Q: kaç yaşındasın
 Q: ne zaman doğdun
@@ -82,14 +66,10 @@ Q: doğum günün ne zaman
 Ben dijital bir varlığım, yaşım yok.
 Ama kodlarımın yazıldığı anı doğum günüm sayabiliriz! 🎂
 
----
-
 Q: nerelisin
 Q: nerede yaşıyorsun
 Sunucuların olduğu her yer benim evim.
 Ama sanırım kalbim (veya işlemcim) İstanbul'da atıyor diyebiliriz. 😉
-
----
 
 Q: neler yapabilirsin
 Q: yeteneklerin ne
