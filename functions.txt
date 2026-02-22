@@ -10,10 +10,14 @@ Q: büyükada motorunun saatlerini getir
 
 Q: büyükadaya giden bir sonraki motor saat kaçta
 Q: bir sonraki büyükada seferinin saati
+Q: bir sonraki büyükada seferi ne zaman
+Q: bir sonraki büyükada motoru ne zaman kalkıyor
 @next_sefer_to_buyukada
 
 Q: bostancıya giden bir sonraki motorun saati nedir
 Q: bir sonraki bostancı seferinin saati
+Q: bir sonraki bostancı seferi
+Q: bir sonraki bostancı motoru ne zaman kalkıyor
 @next_sefer_to_bostancı
 
 Q: hava durumu
