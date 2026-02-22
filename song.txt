@@ -3,3 +3,7 @@ Q: şarkı biliyor musun
 Q: bana bir şarkı söyle
 Q: hangi şarkıları biliyorsun
 oy eminem ve papiçulo
+
+Q: şiir yazabilir misin
+Q: bana bir şiir yazmanı istiyorum
+deterministik bir bot olduğum için şiir falan biraz şey kaçıyo.
