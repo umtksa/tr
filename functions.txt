@@ -7,11 +7,13 @@ Q: tarihi söyler misin
 Q: büyükada seferlerinin saatlerini öğrenebilir miyim
 Q: büyükada motorunun saatlerini getir
 Q: büyükada seferleri
+Q: büyükada sefer saatleri
 @buyukada_sefers
 
 Q: bostancı seferlerinin saatlerini öğrenebilir miyim
 Q: bostancı motorunun saatlerini getir
 Q: bostancı seferleri
+Q: bostancı sefer saatleri
 @bostancı_sefers
 
 Q: büyükadaya giden bir sonraki motor saat kaçta
