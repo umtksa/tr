@@ -4,10 +4,14 @@ Q: hangi gündeyiz
 Q: tarihi söyler misin
 @tarih_fonksiyonu
 
-Q: büyükada seferleri ne zaman
-Q: büyükadaya ilk sefer ne zaman
-Q: karşıya geçmek istiyorum
+Q: büyükada seferlerinin saatlerini öğrenebilir miyim
+Q: büyükada motorunun saatlerini getir
 @sefer_durumu
+
+
+Q: büyükadaya giden bir sonraki motor saat kaçta
+@next_sefer
+
 
 Q: hava durumu
 Q: hava nasıl
